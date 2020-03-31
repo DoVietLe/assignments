@@ -10,7 +10,7 @@ void enableADC() {
 	DDRC &= ~(1<<PINC0);
 	
 	// Sets up ADC settings.
-	ADMUX = 0x40;					// Reads from ADC0. Right justified. Internal 1.1V reference.
+	ADMUX = 0x40;					// Reads from ADC0. Right justified. AVCC reference.
 	ADCSRB = 0x00;					// Free running mode.
 	ADCSRA = 0b10000111;			// Enables ADC with 128 pre-scaler.
 }
