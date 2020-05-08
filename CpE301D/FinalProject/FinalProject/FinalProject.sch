@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Arduino Shield PCB"
 Date "lun. 30 mars 2015"
 Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Comp "UNLV"
+Comment1 "Student Name: Do Le"
+Comment2 "Course: CPE 301 (Spring 2020)"
 Comment3 ""
 Comment4 ""
 $EndDescr
