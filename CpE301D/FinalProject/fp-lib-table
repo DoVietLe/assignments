@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LED_Final)(type KiCad)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Footprints")(options "")(descr LED.))
+  (lib (name Resistor_Final)(type KiCad)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Footprints/Resistor")(options "")(descr ""))
+  (lib (name PushButton_Final)(type KiCad)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Footprints/PushButton.pretty")(options "")(descr ""))
+)

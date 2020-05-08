@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LED_Final)(type Legacy)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Symbols/LTST-C193TGKT-5A.lib")(options "")(descr ""))
+  (lib (name Resistor_Final)(type Legacy)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Symbols/Resistor/RC0603JR-071KL.lib")(options "")(descr ""))
+  (lib (name PushButton_Final)(type Legacy)(uri "C:/Users/Owner/Documents/College/Semester Spring 2020/CPE 301D/Footprints/PushButton.lib")(options "")(descr ""))
+)

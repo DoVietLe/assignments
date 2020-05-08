@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name Resistor_Final)(type KiCad)(uri ${KIPRJMOD}/Components/Resistor/Footprint)(options "")(descr ""))
+  (lib (name PushButton_Final)(type KiCad)(uri ${KIPRJMOD}/Components/PushButton/Footprint)(options "")(descr ""))
+  (lib (name LED_Final)(type KiCad)(uri ${KIPRJMOD}/Components/LED/Footprint)(options "")(descr ""))
+  (lib (name Potentiometer_Final)(type KiCad)(uri ${KIPRJMOD}/Components/Potentiometer/Footprint)(options "")(descr ""))
+  (lib (name LM34_Final)(type KiCad)(uri ${KIPRJMOD}/Components/LM34/Footprint)(options "")(descr ""))
+  (lib (name RFM95W)(type KiCad)(uri ${KIPRJMOD}/Components/RFM95W/Footprint)(options "")(descr ""))
+  (lib (name OLED_Final)(type KiCad)(uri ${KIPRJMOD}/Components/OLED/Footprint)(options "")(descr ""))
+  (lib (name Connector_Final)(type KiCad)(uri ${KIPRJMOD}/Components/TerminalBlock/Footprint)(options "")(descr ""))
+  (lib (name MotorDriver_Final)(type KiCad)(uri ${KIPRJMOD}/Components/MotorDriver/Footprint)(options "")(descr ""))
+  (lib (name Antenna_Final)(type KiCad)(uri ${KIPRJMOD}/Components/AntennaConnector/Footprint)(options "")(descr ""))
+)

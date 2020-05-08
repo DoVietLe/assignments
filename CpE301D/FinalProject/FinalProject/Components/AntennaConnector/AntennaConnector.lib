@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# CONUFL001-SMD
+#
+DEF CONUFL001-SMD J 0 40 Y Y 1 L N
+F0 "J" 100 100 50 H V L BNN
+F1 "CONUFL001-SMD" 0 0 50 H I L BNN
+F2 "U.FL" 0 0 50 H I L BNN
+DRAW
+A 0 0 200 899 2700 0 0 10 N 0 -200 0 200
+P 2 0 0 10 0 -300 0 -200 N
+X RF SIG -300 0 300 R 40 40 0 0 B 
+X GND G1 -300 -300 300 R 40 40 0 0 B 
+X GND G2 -300 -300 300 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

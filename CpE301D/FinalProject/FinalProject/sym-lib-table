@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name LED_Final)(type Legacy)(uri ${KIPRJMOD}/Components/LED/LED.lib)(options "")(descr ""))
+  (lib (name Resistor_Final)(type Legacy)(uri ${KIPRJMOD}/Components/Resistor/Resistor.lib)(options "")(descr ""))
+  (lib (name PushButton_Final)(type Legacy)(uri ${KIPRJMOD}/Components/PushButton/PushButton.lib)(options "")(descr ""))
+  (lib (name Potentiometer_Final)(type Legacy)(uri ${KIPRJMOD}/Components/Potentiometer/Potentiometer.lib)(options "")(descr ""))
+  (lib (name LM34_Final)(type Legacy)(uri ${KIPRJMOD}/Components/LM34/LM34.lib)(options "")(descr ""))
+  (lib (name RFM95W_Final)(type Legacy)(uri ${KIPRJMOD}/Components/RFM95W/RFM95W-915S2.lib)(options "")(descr ""))
+  (lib (name OLED_Final)(type Legacy)(uri ${KIPRJMOD}/Components/OLED/SSD1306_OLED-0.91-128x32.lib)(options "")(descr ""))
+  (lib (name Connector_Final)(type Legacy)(uri ${KIPRJMOD}/Components/TerminalBlock/TerminalBlock.lib)(options "")(descr ""))
+  (lib (name Antenna_Final)(type Legacy)(uri ${KIPRJMOD}/Components/AntennaConnector/AntennaConnector.lib)(options "")(descr ""))
+)
